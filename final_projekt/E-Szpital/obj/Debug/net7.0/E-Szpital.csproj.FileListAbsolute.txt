@@ -1,0 +1,51 @@
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.exe
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.deps.json
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.runtimeconfig.json
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.dll
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.pdb
+D:\_Files\VS\E-Szpital\E-Szpital\bin\Debug\net7.0\CsvHelper.dll
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.AssemblyReference.cache
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfoInputs.cache
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfo.cs
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CoreCompileInputs.cache
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CopyComplete
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.dll
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\refint\E-Szpital.dll
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.pdb
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.genruntimeconfig.cache
+D:\_Files\VS\E-Szpital\E-Szpital\obj\Debug\net7.0\ref\E-Szpital.dll
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.exe
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.deps.json
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.runtimeconfig.json
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.dll
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\E-Szpital.pdb
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\bin\Debug\net7.0\CsvHelper.dll
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.AssemblyReference.cache
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfoInputs.cache
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfo.cs
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CoreCompileInputs.cache
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CopyComplete
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.dll
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\refint\E-Szpital.dll
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.pdb
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\E-Szpital.genruntimeconfig.cache
+D:\_Files\VS\E-Szpital2\E-Szpital\E-Szpital\obj\Debug\net7.0\ref\E-Szpital.dll
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.dll
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\refint\E-Szpital.dll
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.pdb
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\E-Szpital.exe
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\E-Szpital.deps.json
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\E-Szpital.runtimeconfig.json
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\E-Szpital.dll
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\E-Szpital.pdb
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.csproj.CopyComplete
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\E-Szpital.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Новая папка (3)\E-Szpital\obj\Debug\net7.0\ref\E-Szpital.dll
